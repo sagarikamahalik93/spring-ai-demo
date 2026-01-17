@@ -1,3 +1,4 @@
-Get the user data
-process the data
+Login to the user home page
+See the user data
 Create an avatar
+Logout from the user home page
