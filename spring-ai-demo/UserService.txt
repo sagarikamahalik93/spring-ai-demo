@@ -1,4 +1,5 @@
+Log in to the user page
 Get the user data
 process the data
 Create an avatar
-Logout from the user page
+Logout from user page
