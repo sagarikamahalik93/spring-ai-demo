@@ -1,6 +1,7 @@
+Log in to the user page
 Get the user data
 process the data
 Create an avatar
-login and logout
+Logout from user page
 
 changes in config in main
