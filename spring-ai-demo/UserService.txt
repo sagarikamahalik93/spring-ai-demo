@@ -3,4 +3,4 @@ process the data
 Create an avatar
 login and logout
 
-changes in config
+changes in config in main
